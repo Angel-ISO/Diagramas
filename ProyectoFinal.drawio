@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-06T01:27:02.434Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="5V9aDNfe4T7r7VzmyuCv" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-06T01:27:24.620Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="-V2LJupthP_juU1jQ3FI" version="24.2.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="3981" dy="1913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="5413" dy="2726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -528,7 +528,7 @@
         <mxCell id="7TCsUlY0UWKUgK5hBim2-88" value="tener" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="-1580" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7TCsUlY0UWKUgK5hBim2-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="7TCsUlY0UWKUgK5hBim2-102">
+        <mxCell id="7TCsUlY0UWKUgK5hBim2-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=ERmany;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7TCsUlY0UWKUgK5hBim2-102" target="f4wOuDZP4i-04FLXdV7_-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="860" y="710" as="targetPoint" />
           </mxGeometry>
@@ -540,7 +540,7 @@
           <mxGeometry x="-120" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="98FBpa5dfH9Zox_UFikd-1" value="Tiene" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="325" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="98FBpa5dfH9Zox_UFikd-3" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HOgN10SsS_zhc4yn9moy-41" target="98FBpa5dfH9Zox_UFikd-1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
