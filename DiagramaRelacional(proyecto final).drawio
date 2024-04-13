@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-13T02:06:22.200Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="cOWB-VQmVCJdG9Z-g7Kp" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-13T02:07:37.731Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="HeO7B_EeMBFMUVAIFGaK" version="24.2.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2390" dy="1953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -310,6 +310,9 @@
             <mxRectangle width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="2dfob2t4d2PfF-4CYwae-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bfZ_P4A0YDZxhCMfTCZI-79" target="DcrHNUQ9bLjfmQE_69-i-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bfZ_P4A0YDZxhCMfTCZI-79" value="Repartidores" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-30" y="1380" width="180" height="120" as="geometry" />
         </mxCell>
@@ -382,7 +385,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DcrHNUQ9bLjfmQE_69-i-0" value="Informacion Envio" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="710" y="690" width="180" height="270" as="geometry" />
+          <mxGeometry x="1000" y="920" width="180" height="270" as="geometry" />
         </mxCell>
         <mxCell id="DcrHNUQ9bLjfmQE_69-i-1" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="DcrHNUQ9bLjfmQE_69-i-0">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
